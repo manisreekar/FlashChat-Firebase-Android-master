@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728647314422",
+    "firebase_url": "https://login-99838.firebaseio.com",
+    "project_id": "login-99838",
+    "storage_bucket": "login-99838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728647314422:android:ed560cc5e8206edf5bf5d7",
+        "android_client_info": {
+          "package_name": "com.maniraghu.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728647314422-jsirk2jd7cbeu7h94sna1p7jh2f16paq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9McIrOTtOrGtE6GvCM8ySZ9ODO0S3Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728647314422-jsirk2jd7cbeu7h94sna1p7jh2f16paq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
